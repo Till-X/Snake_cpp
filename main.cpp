@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
-#include <ncurses.h>
+//#include <ncurses.h>
 #include <termios.h>
 #include <unistd.h>
 #include <fcntl.h>
