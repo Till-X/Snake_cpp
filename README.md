@@ -7,6 +7,9 @@
 在终端内输入`make`进行编译
 输入`make run`运行测试程序
 
+## 运行展示
+![alt text](<Screenshot from 2024-04-18 15-04-34.png>)
+
 ## To Do List
 - [x] 完成基本程序框架
 - [ ] 设置不同难度
